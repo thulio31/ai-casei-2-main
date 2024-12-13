@@ -3,9 +3,9 @@
         <div class="container">
             <div class="content">
                 <h2>AiCasei Transformando sonhos de casamento em realidade!</h2>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's</p>
-                <button class="btn-default">Click Aqui</button>
-                <button class="btn-alter">Click Aqui</button>
+                <p>Procure no site lugares e serviços para tornar seu casamento um momento unico e perfeito da sua vida</p>
+                <a href="/Lugares"><button class="btn-default">Ver Lugares</button></a>
+                <a href="/Servicos"><button class="btn-alter">Ver Serviços</button></a>
             </div>            
         </div>
        </div>
@@ -42,7 +42,7 @@
 
 
 .btn-default{
-    background-color: #C84648;
+    background-color: #cc0f0f;
     color: #FFFFFF;
     border: none;
     cursor: pointer;

@@ -6,14 +6,14 @@
             </RouterLink>
         </div>
         <div class="menu">
-            <nav id="nav">
+            <nav id="nav" style="display: flex;">
                 <ul class="nav-links">
                     <RouterLink to="/"><li>Meu casamento</li></RouterLink>
                     <RouterLink to="Espacos"><li>Espaços</li></RouterLink>
                     <RouterLink to="Noivos"><li>Noivos</li></RouterLink>
                     <RouterLink to="Servicos"><li>Serviços</li></RouterLink>
                     <RouterLink to="LuaDeMel"><li>Lua de mel</li></RouterLink>
-                    
+                </ul>    
                 <div class="auth-buttons" style="display: flex; margin-left: 0%">
                     <template v-if="isAuthenticated">
                         <RouterLink to="/profile" class="btn btn-login"><li>Meu Perfil</li></RouterLink>
@@ -23,7 +23,7 @@
                         <RouterLink to="/login" class="btn btn-login"><li>Entrar</li></RouterLink>
                         <RouterLink to="/register" class="btn btn-register"><li>Cadastrar</li></RouterLink>
                     </template>
-                </div></ul>
+                </div>
             </nav>
         </div>
     </div>
@@ -51,10 +51,39 @@ export default {
 
 
 <style scoped>
-#nav{
-    width: 100%;
+.auth-buttons {    
+    padding-left: 340px;
 }
 
+.auth-buttons a{
+    background-color: transparent;
+    color: #ffffff;
+    background-color: #cc0f0f;
+    cursor: pointer;
+    padding: 8px 14px;
+    font-weight: bold;
+    border-radius: 5px;
+    font-size: 1.1rem;
+    margin-left: 18px;
+    text-decoration: none;
+
+}
+
+.auth-buttons a:hover{
+    background-color: #911b1b;
+    transition: 0.4s;
+
+}
+
+.auth-buttons li{
+    list-style: none;
+    
+    font-weight: 500;
+}
+
+.logo{
+    margin-top: 5px;
+}
 
 </style>
 

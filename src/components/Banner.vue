@@ -5,7 +5,7 @@
                 <h1>O Sucesso do Seu Casamento <br>Começa Aqui.</h1>
                 <p>Que o amor que hoje vocês celebram cresça a cada dia, trazendo
                 felicidade e cumplicidade em cada momento juntos.</p>
-                <button class="btn-default">Clique Aqui</button>
+                <a href="https://www.casamentos.com.br/"><button class="btn-default">Ver Mais</button></a>
             </div>
             <div class="img">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
@@ -54,13 +54,14 @@
 }
 
 .btn-default{
-    background-color: #C84648;
+    background-color: #cc0f0f;
     color: #FFFFFF;
     border: none;
     cursor: pointer;
     padding: 10px 18px;
     margin: 16px;
     font-weight: bold;
+    font-size: 1.1rem;
     border-radius: 5px;
     margin-top: 19px;
     margin-left: -3px;
