@@ -3,6 +3,7 @@
         <div class="container">
             <div class="card">
                 <div class="content">
+                
                     <p>Ainda não tem o seu vestido tão sonhado?</p>
                     <h2>Catálogo de Vestidos</h2>
                     <p>Descubra as últimas tendências dos melhores estilistas em vestidos de noiva, trajes de noivo, acessórios e muito mais. Navegue pelo catálogo mais completo, criado e atualizado para você brilhar no Grande Dia!</p>
@@ -88,7 +89,7 @@ export default{
     width: 100%;
     height: auto;
     display: flex;
-    margin-top: 40px;
+    margin-top: 120px;
     padding-bottom: 100px;
 }
 .card{

@@ -14,9 +14,9 @@
             <div class="links">
                 <div class="lisks-content">
                     <h3>Links</h3>
-                    <RouterLink><li>Espaços</li></RouterLink>
+                    <RouterLink to="/Espacos"><li>Espaços</li></RouterLink>
                     <RouterLink><li>Sobre Nos</li></RouterLink>
-                    <RouterLink><li>Noivos</li></RouterLink>
+                    <RouterLink to="/Noivos"><li>Noivos</li></RouterLink>
                     <RouterLink><li>Casamento</li></RouterLink>
                 </div>
             </div>
