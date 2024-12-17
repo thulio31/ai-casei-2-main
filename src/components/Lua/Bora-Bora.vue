@@ -30,24 +30,24 @@
         </main>
         <div class="forms">
           <div class="form">
-            <h1>Sitio Alameda</h1>
-            <h3> <i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i> 5.0 <span>Excelente</span></h3>
-            <h3><i class="fa-solid fa-location-dot"></i> <a href="">Piracicaba SP</a></h3>
+            <h1>Bora Bora</h1>
+            <h3> <i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i> 4.8 <span>Excelente</span></h3>
+            <h3><i class="fa-solid fa-location-dot"></i> <a href="">Ilha na Polinésia Francesa</a></h3>
             <div class="colums">
             <div class="colum">
   
             </div>
             <div class="colum">
               <h3><i class="fa-solid fa-coins"></i> Preço</h3>
-              <h4>Aluguel desde R$ 415,00 </h4>
+              <h4>Aluguel desde R$ 27.000,00 </h4>
             </div>
             <div class="colum">
               <h3><i class="fa-solid fa-calendar-days"></i> Horário</h3>
-              <h4>Segunda à Sábado 7:00hrs às 23hrs</h4>
+              <h4>Todos os dias</h4>
             </div>
             <div class="colum">
               <h3><i class="fa-solid fa-square-check"></i> Atendimentos</h3>
-              <h4>20 a <span>140</span> convidados</h4>
+              <h4>Mais de 1.419 Hospedados </h4>
             </div>
   
           </div>
@@ -61,8 +61,8 @@
       <div class="content">
         <div class="conteiner-cont">
           <div class="cont-p">
-            <i class="fa-solid fa-signs-post"></i>
-            <p>Sitio</p>
+            <i class="fa-solid fa-umbrella-beach"></i>
+            <p>Praia</p>
           </div>
           <div class="cont-p">
             <i class="fa-solid fa-bed"></i>
@@ -70,22 +70,16 @@
           </div>
           <div class="cont-p">
             <i class="fa-regular fa-calendar-check"></i>
-            <p>1 evento por dia</p>
+            <p>14 quiosque disponiveis</p>
           </div>
         </div>
         <div class="informacao">
           <div class="info">
             
-            <p>O Sítio Alameda, em São Paulo, é um local encantador para casamentos ao ar livre. Com vastas áreas de jardins floridos, campos verdes e árvores frondosas, oferece um cenário bucólico e romântico, perfeito para uma cerimônia intimista. </p>
             
-                <h2>Espaços e Estruturas para Eventos</h2>
-          <p>
-            O Sítio Alameda oferece uma estrutura completa para a realização de casamentos. Além do espaço aberto para cerimônias, o local conta com um salão elegante e sofisticado para a recepção, adaptável a diferentes estilos de decoração. </p>
-  
-                <h2>Experiência Única para Convidados</h2>
-          <p>
-            Casar no Sítio Alameda não é apenas uma experiência única para os noivos, mas também para os convidados. O ambiente campestre oferece diversas atividades recreativas, como passeios a cavalo, caminhadas ao ar livre e relaxamento nas áreas verdes. </p>
-          </div>
+Aqui está o texto atualizado para o Bora Bora, na Polinésia Francesa:
+
+<p>Bora Bora, na Polinésia Francesa, é um destino paradisíaco e exclusivo para casamentos à beira-mar. Com praias de areia branca, águas cristalinas e paisagens deslumbrantes, oferece um cenário romântico e inesquecível, perfeito para uma cerimônia dos sonhos.</p> <h2>Espaços e Estruturas para Eventos</h2> <p>Bora Bora dispõe de estruturas incríveis para a realização de casamentos. Além das praias paradisíacas para cerimônias ao ar livre, há resorts de luxo com espaços privativos e sofisticados, adaptáveis a diferentes estilos de celebração, garantindo uma experiência única.</p> <h2>Experiência Única para Convidados</h2> <p>Casar em Bora Bora não é apenas um momento inesquecível para os noivos, mas também para os convidados. O ambiente tropical oferece diversas experiências exclusivas, como passeios de barco, mergulho em águas cristalinas, jantares românticos ao pôr do sol e relaxamento em bangalôs sobre as águas.</p>  </div>
         </div>
       </div>
       
