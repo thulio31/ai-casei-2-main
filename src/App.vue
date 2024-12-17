@@ -23,4 +23,6 @@ export default{
 .fa-star {
   color: #e2b212;
 }
+
+
 </style>

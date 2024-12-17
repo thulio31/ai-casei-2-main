@@ -51,6 +51,20 @@ export default {
 
 
 <style scoped>
+
+.btn-logout{
+    margin-left: 20px;    
+    background-color: #cc0f0f;
+    color: #ffffff;
+    cursor: pointer;
+    padding: 8px 14px;
+    font-weight: bold;
+    border-radius: 5px;
+    font-size: 1.1rem;
+    margin-left: 18px;
+    border: none;
+}
+
 .auth-buttons {    
     padding-left: 340px;
 }
@@ -70,6 +84,12 @@ export default {
 }
 
 .auth-buttons a:hover{
+    background-color: #911b1b;
+    transition: 0.4s;
+
+}
+
+.btn-logout:hover{
     background-color: #911b1b;
     transition: 0.4s;
 

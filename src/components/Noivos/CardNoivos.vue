@@ -87,8 +87,7 @@ export default{
     z-index: 10;
     position: absolute;
     transform: translateY(60%);    
-    border-radius:20px ;
-    border: 1px solid #2020164d;    
+    border-radius:20px ;    
     box-shadow: rgba(0, 0, 0, 0.24) 4px 7px 8px;
 }
 
@@ -121,8 +120,7 @@ export default{
     background-color: #fff;
     margin-left: 30px;
     transform: translateY(10%);    
-    border-radius:20px ;
-    border: 1px solid #2020164d;    
+    border-radius:20px ; 
     box-shadow: rgba(0, 0, 0, 0.24) 4px 7px 8px;
     margin-top: 10px;
 }
@@ -150,7 +148,6 @@ export default{
     background-size: cover;
     background-repeat: no-repeat ;
     border-radius:20px ;
-    border: 1px solid #2020164d;
     margin-right: 30px;
     margin-top: 40px;    
     box-shadow: rgba(0, 0, 0, 0.24) 4px 7px 8px;
@@ -163,7 +160,6 @@ export default{
     background-size: cover;
     background-repeat: no-repeat ; 
     border-radius:20px ;
-    border: 1px solid #2020164d;
     margin-left: 20px;
 }
 
@@ -174,7 +170,6 @@ export default{
     background-size: cover;
     background-repeat: no-repeat ; 
     border-radius:20px ;
-    border: 1px solid #2020164d;
     margin-left: 20px;
 }
 </style>

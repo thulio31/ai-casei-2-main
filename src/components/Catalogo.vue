@@ -6,8 +6,8 @@
                 
                     <p>Ainda não tem o seu vestido tão sonhado?</p>
                     <h2>Catálogo de Vestidos</h2>
-                    <p>Descubra as últimas tendências dos melhores estilistas em vestidos de noiva, trajes de noivo, acessórios e muito mais. Navegue pelo catálogo mais completo, criado e atualizado para você brilhar no Grande Dia!</p>
-
+                    <p>Descubra as últimas tendências dos melhores estilistas em vestidos de noiva, trajes de noivo, acessórios e decorações alianças e muito mais. </p>
+                    <p>Navegue pelo catálogo mais completo, criado e atualizado para você brilhar no Grande Dia!</p>
                     <div class="link">
                     <nav>
                         <ul>
@@ -21,8 +21,7 @@
                      <nav>
                         <ul>
                             <a href="https://www.drterno.com.br/"><li>Terno Noivo</li></a>
-                            <a href="https://www.drterno.com.br/"><li>Roupa de Festa</li></a>                            
-                            <a href="https://www.drterno.com.br/"><li>Acessórios</li></a>
+                            <a href="https://www.drterno.com.br/"><li>Roupa de Festa</li></a>    
                         </ul>
                     </nav>
                 </div>
@@ -41,16 +40,10 @@
                 <div class="img-list2">
 
                 </div>
-                <a href="https://www.docenoivas.com.br" target="_blank"><h4>Lojas de Noivas</h4></a>
+                <a href="https://www.docenoivas.com.br" target="_blank"><h4>Lojas de Noivos</h4></a>
                 <p>5 Fornecedores</p>
-            </div><div class="card-list">
-                <div class="img-list3">
-
-                </div>
-                <a href="https://boutiquedanoiva.com.br" target="_blank"><h4>Acessorios Noivas</h4></a>
-                <p>8 Fornecedores</p>
             </div>
-            
+                       
             
             
         </div>
@@ -89,15 +82,18 @@ export default{
     width: 100%;
     height: auto;
     display: flex;
-    margin-top: 120px;
+    margin-top: 30px;
     padding-bottom: 100px;
+    padding-left: 20px;
+    overflow-x: hidden;
+    
 }
 .card{
     display: flex;
 }
 
 .content{
-    width: 65%;
+    width: 55%;
 }
 
 .link{
@@ -105,7 +101,7 @@ export default{
 }
 
 .link li{
-    margin: 10px 20px;
+    margin: 20px 20px;
     list-style: none;
     font-weight: 400;
 }
@@ -131,19 +127,19 @@ export default{
   
   .content p{
     margin: 10px 20px  ;
-    padding-right: 120px;
+    padding-right: 80px;
     font-size: 1.2rem;
     color: #242421d5;
   }
 
 .conteiner-list{
-    width: 40%;
+    width: 45%;
     height: auto;
     display: flex;
     justify-content: end;
-    margin-top: 40px;
-    background-color: #cc0f0f65;
+    margin-top: 75px;
     border-radius: 70px 0px 0px 70px;
+    margin-right: 40px;
 }
 .card-list p{
     color: #0f0f0faa;    
@@ -203,24 +199,7 @@ export default{
     transition: .6s;
 }
 
-.conteiner-list .img-list3{
-    background-image: url('public/img/acessorio.jpg');
-    background-size: cover;
-    background-repeat: no-repeat ;
-    width: 170px;
-    height: 220px;
-    margin: 20px;
-    overflow: hidden;
-    border-radius: 10px;
-    filter: grayscale(60%);
-    transition: .6s;
-    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
-}
-.conteiner-list .img-list3:hover{
-    background-size: 110% ;
-    filter: none;    
-    transition: .6s;
-}
+
 
 
 </style>

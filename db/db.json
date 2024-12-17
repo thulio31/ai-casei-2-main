@@ -11,6 +11,12 @@
       "name": "edson",
       "email": "edson@edson",
       "password": "123"
+    },
+    {
+      "id": "c183",
+      "name": "venciodabanana",
+      "email": "vencio@bananinha",
+      "password": "123"
     }
   ]
 }
